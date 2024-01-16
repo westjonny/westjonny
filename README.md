@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @westjonny
-- 👀 I’m interested in Data Analytics, and Business Intelligence as well as strategy tabletop games. 
-- 🌱 I’m currently studying Information Systems at the University of Utah. 
-- 💞️ I’m looking to collaborate on projects that will help me explore the tools being used in University 
-classes further, in order to gain a deeper real world understanding.
+- 🌱 I graduated from the University of Utah in 2022, with a BA in Information Systems. 
+- 👀 I’m interested in Data Engineering and Business Intelligence.
 - 📫 https://www.linkedin.com/in/jonathan-c-west/
 
 <!---
